@@ -1,5 +1,5 @@
 
-CNNs to classify scanned Images dataset using transfer learning (Vgg16) with custom additional layers.
+CNNs to classify scanned Images of documents using transfer learning (Vgg16) with custom additional layers.
 
 Libraries : Pytorch
 
